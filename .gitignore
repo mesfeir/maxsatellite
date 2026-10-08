@@ -1,0 +1,6 @@
+/target
+# The Real-ESRGAN-ncnn-vulkan binaries are ~50 MB and versioned upstream;
+# they are downloaded, not built (see the README).
+/tools
+*.log
+
